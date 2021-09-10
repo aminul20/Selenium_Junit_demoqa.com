@@ -4,6 +4,10 @@
 
 <h2><span style="color: #1D9F1D;">Report of this Automated Test</span></h2>
 
+<a href="https://imgur.com/1qxmwPa"><img src="https://i.imgur.com/1qxmwPa.png" title="source: imgur.com" /></a>
+
+<br>
+
 <h3>Class TestSeleniumJUnit_program1.java</h3>
 
 <table>
