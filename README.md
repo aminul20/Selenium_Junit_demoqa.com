@@ -4,7 +4,7 @@
 
 <h2><span style="color: #1D9F1D;">Report of this Automated Test</span></h2>
 
-<a href="https://imgur.com/1qxmwPa"><img src="https://i.imgur.com/1qxmwPa.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/pn0b9t1"><img src="https://i.imgur.com/pn0b9t1.png" title="source: imgur.com" /></a>
 
 <br>
 
