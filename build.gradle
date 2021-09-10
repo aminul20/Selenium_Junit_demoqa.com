@@ -26,6 +26,12 @@ dependencies {
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver
     implementation group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '3.141.59'
 
+//    For Taking Screenshots
+    implementation group: 'commons-io', name: 'commons-io', version: '2.11.0'
+
+//    To Read Data from excel
+    implementation group: 'org.apache.poi', name: 'poi', version: '5.0.0'
+
 }
 
 //test {
